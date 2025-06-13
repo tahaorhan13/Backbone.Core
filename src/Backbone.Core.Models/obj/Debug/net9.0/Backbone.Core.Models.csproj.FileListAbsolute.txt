@@ -1,0 +1,11 @@
+C:\Users\taha\Desktop\Backbone.Core\Backbone.Core.Models\bin\Debug\net9.0\Backbone.Core.Models.deps.json
+C:\Users\taha\Desktop\Backbone.Core\Backbone.Core.Models\bin\Debug\net9.0\Backbone.Core.Models.dll
+C:\Users\taha\Desktop\Backbone.Core\Backbone.Core.Models\bin\Debug\net9.0\Backbone.Core.Models.pdb
+C:\Users\taha\Desktop\Backbone.Core\Backbone.Core.Models\obj\Debug\net9.0\Backbone.Core.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taha\Desktop\Backbone.Core\Backbone.Core.Models\obj\Debug\net9.0\Backbone.Core.Models.AssemblyInfoInputs.cache
+C:\Users\taha\Desktop\Backbone.Core\Backbone.Core.Models\obj\Debug\net9.0\Backbone.Core.Models.AssemblyInfo.cs
+C:\Users\taha\Desktop\Backbone.Core\Backbone.Core.Models\obj\Debug\net9.0\Backbone.Core.Models.csproj.CoreCompileInputs.cache
+C:\Users\taha\Desktop\Backbone.Core\Backbone.Core.Models\obj\Debug\net9.0\Backbone.Core.Models.dll
+C:\Users\taha\Desktop\Backbone.Core\Backbone.Core.Models\obj\Debug\net9.0\refint\Backbone.Core.Models.dll
+C:\Users\taha\Desktop\Backbone.Core\Backbone.Core.Models\obj\Debug\net9.0\Backbone.Core.Models.pdb
+C:\Users\taha\Desktop\Backbone.Core\Backbone.Core.Models\obj\Debug\net9.0\ref\Backbone.Core.Models.dll
