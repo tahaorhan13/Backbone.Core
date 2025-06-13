@@ -1,5 +1,0 @@
-C:\Users\taha\Desktop\Backbone.Core\Backbone.Core.Services\obj\Debug\net9.0\Backbone.Core.Services.csproj.AssemblyReference.cache
-C:\Users\taha\Desktop\Backbone.Core\Backbone.Core.Services\obj\Debug\net9.0\Backbone.Core.Services.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\taha\Desktop\Backbone.Core\Backbone.Core.Services\obj\Debug\net9.0\Backbone.Core.Services.AssemblyInfoInputs.cache
-C:\Users\taha\Desktop\Backbone.Core\Backbone.Core.Services\obj\Debug\net9.0\Backbone.Core.Services.AssemblyInfo.cs
-C:\Users\taha\Desktop\Backbone.Core\Backbone.Core.Services\obj\Debug\net9.0\Backbone.Core.Services.csproj.CoreCompileInputs.cache
